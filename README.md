@@ -32,7 +32,7 @@ public class Jonatham {
 }
 ```
 
-Estudante de Análise e Desenvolvimento de Sistemas, ex-intercambista no Chile pelo Programa Conexão Mundo. Gosto de jogos e de RPG de mesa, e agora estou dando os primeiros passos no mundo do gamedev.
+Estudante de Análise e Desenvolvimento de Sistemas, ex-intercambista no Chile pelo Programa Conexão Mundo. Gosto de jogos e de RPG de mesa, e agora estou dando os primeiros passos no mundo do desenvolvimento de jogos.
 
 <br>
 
