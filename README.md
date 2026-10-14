@@ -62,7 +62,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, ex-intercambista no Chile p
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonathamAraujo&repo=Tool-Lending-System&theme=dark&bg_color=0F2027&title_color=40E0D0&icon_color=FFB703&text_color=C9D1D9&border_color=40E0D0&border_radius=10" alt="API para Empréstimo de Ferramentas" />
       </a>
       <br>
-      <sub>API para empréstimo de ferramentas</sub>
+      <sub>API para Empréstimo de Ferramentas<br>Java • Spring Boot • MariaDB</sub>
     </td>
   </tr>
 </table>
