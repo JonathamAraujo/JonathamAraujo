@@ -2,11 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,100:40E0D0&section=header&text=Jonatham%20Araujo&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Estudante%20de%20ADS%20%7C%20Desenvolvedor%20Back-end&descAlignY=56&descSize=18" alt="Banner Jonatham Araujo" />
 
-<img src="assets/fire-flame.gif" width="280" alt="Cavaleiro sentado na fogueira sob um eclipse" />
+<br>
 
+<p align="center">
+  <img src="assets/fire-flame.gif" width="280" alt="Cavaleiro sentado na fogueira sob um eclipse" />
+</p>
+
+<p align="center">
 <a href="https://github.com/JonathamAraujo">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=640&height=45&lines=Estudante+de+ADS;Desenvolvedor+Back-end;Java+%2B+Spring+Boot;Amante+de+RPG+de+mesa;Iniciando+no+mundo+do+gamedev" alt="Typing animation" />
 </a>
+</p>
 
 </div>
 
