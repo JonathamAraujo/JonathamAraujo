@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=40E0D0&color_dots=1a1a1a,0a3d38,0f6b61,1fa89a,40E0D0
+            dist/github-snake.svg?color_snake=FFB703&color_dots=16313a,0f5a5a,1fa89a,2fd0c0,40E0D0
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
