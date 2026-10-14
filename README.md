@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bonfire.gif" width="280" alt="Cavaleiro sentado na fogueira sob um eclipse" />
+<img src="assets/fire-flame.gif" width="280" alt="Cavaleiro sentado na fogueira sob um eclipse" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,100:40E0D0&section=header&text=Jonatham%20Araujo&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Estudante%20de%20ADS%20%7C%20Desenvolvedor%20Back-end&descAlignY=56&descSize=18" alt="Banner Jonatham Araujo" />
 
